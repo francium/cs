@@ -1,3 +1,4 @@
+- binary search (p32)
 - sorting problems
   - most common element in an array
   - do two arrays comtain the same element?
